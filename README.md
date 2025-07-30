@@ -20,7 +20,7 @@ This project is a self-practice manual testing effort based on the demo banking 
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```
 manual-testing-portfolio/
