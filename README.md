@@ -1,6 +1,6 @@
 # 🔪 Manual Testing Portfolio – Guru99 Online Banking Project
 
-This project is a self-practice manual testing effort based on the demo banking website provided by [Guru99](https://demo.guru99.com/). It was designed to build and demonstrate real-world QA skills, and prepare for the ISTQB Foundation Level exam.
+This project is a self-practice manual testing effort based on the demo banking website provided by [Guru99](https://demo.guru99.com/). It was designed to build and demonstrate real-world QA skills, 
 
 ---
 
@@ -14,7 +14,7 @@ This project is a self-practice manual testing effort based on the demo banking 
 - Wrote and executed test cases for key flows
 - Covered both valid and invalid scenarios
 
-### �\udbug Bug Reporting
+### �\Bug Reporting
 - Reported critical bugs in the **New Customer module**
 - Tracked each bug with proper severity, priority, and evidence
 
@@ -25,19 +25,16 @@ This project is a self-practice manual testing effort based on the demo banking 
 ```
 manual-testing-portfolio/
 │
-├── README.md                  # Project summary
+├── README.md                 
 │
 ├── TestPlan/
-│   └── system_test_plan.pdf or link.txt
+│   └── system_test_plan.xlsx
 │
 ├── TestCases/
-│   └── test_cases_sheet.pdf or link.txt
+│   └── test_cases_sheet.xlsx
 │
 ├── BugReports/
-    └── bug_tracker_sheet.pdf or link.txt
-```
-
-> You can either upload PDFs or simply add `.txt` files with Google Drive/Sheets links.
+    └── bug_tracker_sheet.xlsx
 
 ---
 
@@ -64,13 +61,8 @@ This project is part of my personal learning and testing portfolio. It showcases
 
 ---
 
-## 🎨 Preview Card
-![Manual Testing Portfolio Banner](https://dummyimage.com/1000x400/1e1e2f/ffffff&text=Manual+Testing+Portfolio+%7C+Guru99+Banking+App)
-
----
-
 ## 👉 Contact
-Feel free to reach out via [LinkedIn]([(https://www.linkedin.com/in/mondy-bourham/)) if you have feedback, or want to collaborate!
+Feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/mondy-bourham/) if you have feedback, or want to collaborate!
 
 ---
 
