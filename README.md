@@ -39,7 +39,7 @@ This project is a self-practice manual testing effort based on the demo banking 
 
 ---
 
-##/3 🚀 Purpose
+### 🚀 Purpose
 This project is part of my personal learning and testing portfolio. It showcases my skills in:
 - Writing test plans and test cases
 - Executing test cases manually
@@ -61,5 +61,15 @@ Feel free to reach out via
  if you have feedback, or want to collaborate!
 
 ---
+### 🔧 Skills Demonstrated
+- Manual Testing
+- Test Design
+- Bug Reporting
+- Test Management
 
+---
+### 🧰 Tools Used 
+- Excel
+- Google Sheets
+---
 #ISTQB #ManualTesting #SoftwareTesting #QA #Guru99 #Portfolio #BugTracking
