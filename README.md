@@ -38,14 +38,14 @@ manual-testing-portfolio/
 
 ---
 
-## 📅 Tools Used
+### 📅 Tools Used
 - Google Sheets (Test Plan, Test Cases, Bug Tracker)
 - Guru99 Banking Demo Site
 - Manual execution and documentation
 
 ---
 
-## 🚀 Purpose
+##/3 🚀 Purpose
 This project is part of my personal learning and testing portfolio. It showcases my skills in:
 - Writing test plans and test cases
 - Executing test cases manually
@@ -54,15 +54,17 @@ This project is part of my personal learning and testing portfolio. It showcases
 
 ---
 
-## 🔗 Live Documents
+### 🔗 Live Documents
 - [System Test Plan](https://docs.google.com/spreadsheets/d/104TD4aHYy96VYyTawzTz69xwLnUmCQFQhRpTI9RCa3g/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1cL1VLBsTxuUvYJaQccZNevje7G5FoONu7UrJkb0iszI/edit?usp=sharing)
 - [Bug Reports](https://docs.google.com/spreadsheets/d/1gCUxen_9ncuFwpfksIsCscSC9GpbU02udvQr0Puw1Kg/edit?usp=sharing)
 
 ---
 
-## 👉 Contact
-Feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/mondy-bourham/) if you have feedback, or want to collaborate!
+### 👉 Contact
+Feel free to reach out via
+ [LinkedIn](https://www.linkedin.com/in/mondy-bourham/)
+ if you have feedback, or want to collaborate!
 
 ---
 
