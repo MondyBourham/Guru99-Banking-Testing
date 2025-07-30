@@ -20,22 +20,16 @@ This project is a self-practice manual testing effort based on the demo banking 
 
 ---
 
-### 📂 Project Structure
+## 📂 Project Structure
 
-```
-manual-testing-portfolio/
-│
-├── README.md                 
-│
-├── TestPlan/
-│   └── system_test_plan.xlsx
-│
-├── TestCases/
-│   └── test_cases_sheet.xlsx
-│
-├── BugReports/
-    └── bug_tracker_sheet.xlsx
-
+<pre> 
+  ├── 📄 README.md # Project summary 
+  ├── 📁 TestPlan/ 
+            │ └── 📄 system_test_plan.xlsx 
+  ├── 📁 TestCases/ 
+            │ └── 📄 test_cases_sheet.xlsx 
+  └── 📁 BugReports/
+             └── 📄 bug_tracker_sheet.xlsx </pre>
 ---
 
 ### 📅 Tools Used
